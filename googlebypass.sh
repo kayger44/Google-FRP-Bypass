@@ -13,7 +13,7 @@ echo "                                                                bypasser20
 echo "                                                              by hackerstech"
 echo "############################################################################"
 sleep 2
-
+echo "Please put your phone fastboot mode"
 PS2='Please enter your choice: '
 options=("Bypass Google Verification" "Quit")
 select opt in "${options[@]}"
