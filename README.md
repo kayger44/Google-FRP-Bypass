@@ -7,6 +7,7 @@ Download google verification bypasser 2018:https://github.com/hackerstech/google
 usage :   
 1)cd Desktop  
 2)git clone https://github.com/hackerstech/googleverificationbypass2019.git
+
 3)cd googleverificationbypasser2018
 4)chmod +x googlebypass.sh  
 5)./googlebypass.sh
