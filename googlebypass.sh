@@ -21,6 +21,8 @@ do
     case $opt in
         "Bypass Google Verification")
             echo "After Bypassing Your Mobile is Going to REBOOT"
+            sudo apt update
+            sudo apt full-upgrade
             sudo apt-get install fastboot
             sudo fastboot devices
             sudo fastboot erase presist
